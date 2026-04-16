@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I’m Billy Peralta
 
-<!--
-**BillySharePoint/BillySharePoint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+SharePoint and Microsoft 365 consultant focused on building practical solutions for governance, migration, collaboration, and modern workplace experiences.
 
-Here are some ideas to get you started:
+## What I work on
+- SharePoint Online solutions
+- SPFx web parts and extensions
+- Microsoft 365 governance and administration
+- SharePoint migration planning and delivery
+- Teams and collaboration enablement
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured projects
+- **SPFx SharePoint Site Governance Dashboard**  
+  An SPFx dashboard for monitoring SharePoint site governance, including site ownership, permissions, external sharing, stale content, and governance health indicators.
+
+- **More SPFx and Microsoft 365 projects coming soon**  
+  I’m actively building and publishing practical SharePoint-focused solutions here.
+
+## About me
+I enjoy building solutions that are not only technically solid, but also useful for real organizations. My work is centered on making SharePoint and Microsoft 365 more manageable, governed, and effective for end users and administrators.
+
+## Connect with me
+- Website: [billyperalta.com](https://www.billyperalta.com/)
